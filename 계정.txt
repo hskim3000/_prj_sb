@@ -1,0 +1,11 @@
+mysql
+localhost
+root
+111111
+
+oracle xe
+sys
+111111
+
+HSKIM
+111111
